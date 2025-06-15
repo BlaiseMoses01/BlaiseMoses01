@@ -1,11 +1,11 @@
 # 👋 Hey, I’m Blaise Moses
 
-I’m a Software Engineer in Test specializing in scalable, resusable testing archeticture.  My code breaks less, scales better, and doesn’t flinch at flaky test cases or brittle pipelines.
+I’m a Software Engineer in Test specializing in scalable, resusable testing archeticture. In my current role I am leading the design and implementation of Regression Suites for Salesforce CRMs.
 
 Currently:
 - 🏦 SDET at a fortune 500 company, leading development of scalable UI/API test suites with **Playwright**, **Gherkin**, and **TypeScript**
 
-- 🚀 Building **[30DayQA]([https://30daysdet.dev/])** — a no-fluff challenge-based platform to teach real-world test automation and SDET career skills. My goal is to provide guidance and tools for effective testing of modern web applications at an affordable price point. 
+- 🚀 Building **[30DaySDET]([https://30daysdet.dev/])** — a no-fluff challenge-based platform to teach real-world test automation and SDET career skills. My goal is to provide guidance and tools for effective testing of modern web applications at an affordable price point. 
 
 ---
 
@@ -41,4 +41,4 @@ Currently:
 
 - 📧 [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/blaise-moses)
-- 🚀 [30DayQA](https://30daysdet.dev/)
+- 🚀 [30DaySDET](https://30daysdet.dev/)
