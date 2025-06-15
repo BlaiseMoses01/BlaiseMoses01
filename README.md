@@ -1,11 +1,11 @@
 # 👋 Hey, I’m Blaise Moses
 
-I’m a Software Engineer and SDET who turns QA teams into engineering powerhouses. My code breaks less, scales better, and doesn’t flinch at flaky test cases or brittle pipelines.
+I’m a Software Engineer in Test specializing in scalable, resusable testing archeticture.  My code breaks less, scales better, and doesn’t flinch at flaky test cases or brittle pipelines.
 
 Currently:
-- 🏦 QA Automation Engineer at Ally (via Brooksource), building robust UI/API test suites with **Playwright**, **Gherkin**, and **TypeScript**
-- 🤖 Freelance LLM QA/Engineer, improving AI training pipelines with real-world coding evaluations and benchmarking tools
-- 🚀 Building **[30DayQA](https://yourlinkhere.com)** — a no-fluff challenge-based platform to teach real-world test automation and SDET career skills
+- 🏦 SDET at a fortune 500 company, leading development of scalable UI/API test suites with **Playwright**, **Gherkin**, and **TypeScript**
+
+- 🚀 Building **[30DayQA]([https://30daysdet.dev/])** — a no-fluff challenge-based platform to teach real-world test automation and SDET career skills. My goal is to provide guidance and tools for effective testing of modern web applications at an affordable price point. 
 
 ---
 
@@ -27,16 +27,13 @@ Currently:
 
 ## 📂 Featured Projects
 
-- 🧪 **[Test Playground](https://yourplayground.link)** – UI challenges designed for aspiring SDETs to practice real-world automation patterns (iframes, modals, async forms, shadow DOM, etc.)
-- 🎓 **[30DayQA](https://yourcourse.link)** – My flagship hands-on course teaching how to go from manual QA to real automation engineer in 30 days
-- 🔁 **[Automation Framework Starter](https://github.com/yourusername/starter-framework)** – Playwright + Gherkin boilerplate with CI support and reusable test structure
 
 ---
 
 ## 💭 Core Philosophy
 
-> Automation isn’t about clicking buttons.  
-> It’s about building **systems that scale**, writing tests that **tell the truth**, and thinking like an engineer — not a script jockey.
+> Despite its reputatiuon , QA is no longer clicking buttons , modern QA involves so much more to be effective. 
+> It’s about building **systems that scale**, writing tests that are **adaptive**, and thinking like an engineer to create effective, resusable testing architecture.
 
 ---
 
@@ -44,8 +41,4 @@ Currently:
 
 - 📧 [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/blaise-moses)
-- 🚀 [30DayQA](https://yourcourse.link)
-
----
-
-_“Test like an engineer. Build like it breaks. Deliver like it matters.”_
+- 🚀 [30DayQA](https://30daysdet.dev/)
