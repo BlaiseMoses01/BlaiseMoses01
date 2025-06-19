@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Blaise Moses
+# 👋 Hey, I’m Blaise
 
 I’m a Software Engineer in Test specializing in scalable, resusable testing archeticture. In my current role I am leading the design and implementation of Regression Suites for Salesforce CRMs.
 
