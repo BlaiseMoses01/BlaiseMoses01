@@ -41,4 +41,4 @@ Currently:
 
 - 📧 [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/blaise-moses)
-- 🚀 [30DaySDET](https://30daysdet.dev/)
+- 🚀 [30DaySDET](https://30daysdet.com/)
