@@ -32,7 +32,7 @@ Currently:
 
 ## 💭 Core Philosophy
 
-> Despite its reputatiuon , QA is no longer clicking buttons , modern QA involves so much more to be effective. 
+> Despite its reputation , QA is much more clicking buttons , modern QA involves so much more to be effective. 
 > It’s about building **systems that scale**, writing tests that are **adaptive**, and thinking like an engineer to create effective, resusable testing architecture.
 
 ---
