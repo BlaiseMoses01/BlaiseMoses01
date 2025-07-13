@@ -62,9 +62,16 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 ---
 
 ## 📂 Featured Projects
-
-*(Coming Soon – working on pushing project showcases for 30DaySDET and AWS test infrastructure!)*
-
+1. **Selenium UI Automation Suite**
+   - Repo : [Selenium Toy Repo](https://github.com/BlaiseMoses01/Selenium_Appium_Example) :
+   - Description : A UI testing automation suite targeting a mock login flow on my SDET playground , [30daySDET.dev]()
+   - Languages/Tools : Java, Selenium, Allure Reporting, Github Actions
+2. **PonyUp** (Ongoing)
+   - Repo : [PonyUp]()
+   - Description : PonyUp is a Texas Hold em' Simulator and evenutually a Solver I am using to reinforce my studies in systems programming, statistics, and mathematics. I am building and refactoring it incrementally as I learn and grow more comfortable with the relevant topics.
+   - Langauges/Tools : C++
+3. **30DaySDET**(Ongoing)
+   - 30DaySDET is an e-learning platform I’m building to help QA professionals break into test automation. After graduating into a tough job market, I landed a QA role and taught myself automation, eventually becoming a lead SDET. This project is my way of giving back — offering challenge-based lessons to teach programming fundamentals and       modern automation practices I wish I had when starting out.
 ---
 
 ## 💭 Core Philosophy
