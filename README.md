@@ -9,8 +9,8 @@ I'm particularly interested in **systems-level programming**, **quantitative tra
 ## 💼 Current Work
 
 - 🏦 **SDET @ Fortune 200 Company**  
-  -Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
-  -Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
+  1. Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
+  1. Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
   
 ---
 
