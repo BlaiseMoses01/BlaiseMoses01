@@ -63,11 +63,11 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 
 ## 📂 Featured Projects
 1. **Selenium UI Automation Suite**
-   - Repo : [Selenium Toy Repo](https://github.com/BlaiseMoses01/Selenium_Appium_Example) :
+   - Repo : [Selenium Example](https://github.com/BlaiseMoses01/Selenium_Appium_Example) 
    - Description : A UI testing automation suite targeting a mock login flow on my SDET playground , [30daySDET.dev]()
    - Languages/Tools : Java, Selenium, Allure Reporting, Github Actions
 2. **PonyUp** (Ongoing)
-   - Repo : [PonyUp]()
+   - Repo : [PonyUp](https://github.com/BlaiseMoses01/PonyUp)
    - Description : PonyUp is a Texas Hold em' Simulator and evenutually a Solver I am using to reinforce my studies in systems programming, statistics, and mathematics. I am building and refactoring it incrementally as I learn and grow more comfortable with the relevant topics.
    - Langauges/Tools : C++
 3. **30DaySDET**(Ongoing)
