@@ -41,7 +41,7 @@ After graduating and starting my career in October, I realized I had slacked on 
   - Building and automating serverless test infrastructure
   - Studying for Certifaction Exams
  
-To see my recent studies and projects, check out my repo [BrainDump](https://github.com/BlaiseMoses01/BrainDump) , an archive of notes, code examples,  and other key info related to my various studies, I maintain a log of my studies and contirbutions in the patch notess of this repo!
+To see my recent studies and projects, check out my repo [BrainDump](https://github.com/BlaiseMoses01/BrainDump) , an archive of notes, code examples,  and other key info related to my various studies. I maintain a log of my studies and contirbutions in the patch notes!
 
 ---
 
