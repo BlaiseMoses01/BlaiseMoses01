@@ -1,33 +1,27 @@
 # 👋 Hey, I’m Blaise
 
-I'm a **Software Engineer in Test (SDET)** specializing in **scalable, reusable test architecture**. I currently lead regression suite development for Salesforce CRMs at a Fortune 200 company.
+I'm a **Software Engineer** passionate about building robust, high-performance systems. I currently work at a Fortune 200 company, where I lead test infrastructure development,  but my long-term vision is grounded in systems programming, backend architecture, and the mathematics of software.
+
+I'm particularly interested in **systems-level programming**, **quantitative trading**, and **distributed computing**.
 
 ---
 
 ## 💼 Current Work
 
 - 🏦 **SDET @ Fortune 200 Company**  
-  Leading development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
-
-- 🚀 **[30DaySDET](https://30daysdet.dev/)** (Founder)  
-  A no-fluff, challenge-based platform that teaches real-world test automation and SDET career skills.  
-  My goal is to help QA professionals master modern testing practices with practical tools and guidance.
-
+  -Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
+  -Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
+  
 ---
 
 ## 📚 Current Studies
 
 After graduating and starting my career in October, I realized I had slacked on studying outside of work. I'm now locked in on strengthening my fundamentals and growing into a systems-level engineer. Here's my current curriculum:
 
-- **🎓 CS50 (Harvard Computer Science Review)**  
-  - Revisiting foundational CS topics: algorithms, data structures, memory, and architecture  
-  - Completing hands-on C and Python projects  
-  - Course: [CS50x – Introduction to Computer Science](https://cs50.harvard.edu/x/)
-
 - **📘 C++ Mastery**  
   - Studying modern C++ (C++17/20), STL, memory management  
   - Working through *C++17 in Detail* by Bartłomiej Filipek  
-  - Building systems projects like HTTP servers and game logic engines
+  - Building systems projects like game logic engines
 
 - **🧠 Systems Programming & OS**  
   - Reading *Operating Systems: Three Easy Pieces*  
@@ -35,15 +29,19 @@ After graduating and starting my career in October, I realized I had slacked on 
 
 - **🌐 Networking Fundamentals**  
   - Studying *TCP/IP for Dummies*  
-  - Building simple socket-based applications
+  - Learning and applying socket-based architecture and other key concepts.
 
 - **🧱 Software Design & Patterns**  
   - Working through *Design Patterns* and *C++ Software Design* (O’Reilly)  
   - Implementing reusable patterns in both C++ and TypeScript
+  - Practicing key DSA with Leetcode and other Competitive programming platforms. 
 
 - **☁️ AWS Developer Path**  
   - Learning key AWS services: Lambda, API Gateway, DynamoDB, S3, IAM  
   - Building and automating serverless test infrastructure
+  - Studying for Certifaction Exams
+ 
+To see my recent studies and projects, check out my repo [BrainDump](https://github.com/BlaiseMoses01/BrainDump) , an archive of notes, code examples,  and other key info related to my various studies, I maintain a log of my studies and contirbutions in the patch notess of this repo!
 
 ---
 
@@ -71,8 +69,7 @@ After graduating and starting my career in October, I realized I had slacked on 
 
 ## 💭 Core Philosophy
 
-> QA isn’t just about clicking buttons.  
-> It’s about building **systems that scale**, writing tests that are **adaptive**, and thinking like an engineer to create **effective, reusable automation architecture**.
+> Anything in life worth doing is worth doing all the way. So many people do all the work to get to the first plateau and settle, and spend the rest of their life dreaming of the view at the peak. I will see the top of this mountain.
 
 ---
 
@@ -80,4 +77,3 @@ After graduating and starting my career in October, I realized I had slacked on 
 
 - 📧 [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/blaise-moses)
-- 🌐 [30DaySDET](https://30daysdet.dev/)
