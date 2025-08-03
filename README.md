@@ -78,7 +78,7 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 
 ## 💭 Core Philosophy
 
-> Anything in life worth doing is worth doing all the way. So many people do all the work to get to the first plateau and settle, and spend the rest of their life dreaming of the view at the peak. I will see the top of this mountain.
+> Anything in life worth doing is worth doing all the way. Don't mistake a plateau for the peak
 
 ---
 
