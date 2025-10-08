@@ -1,8 +1,8 @@
 # 👋 Hey, I’m Blaise
 
-I'm a **Software Engineer** passionate about building robust, high-performance systems. I currently work at a Fortune 200 company, where I lead test infrastructure development,  but my long-term vision is grounded in systems programming, backend architecture, and the mathematics of software.
+I'm a **Software Engineer** passionate about building robust, high-performance systems. I currently work at a Fortune 200 company, where I lead test infrastructure development,  but my long-term vision is grounded in systems programming, backend architecture, and the Artificial Intelligence
 
-I'm particularly interested in **systems-level programming**, **quantitative trading**, and **distributed computing**.
+I'm particularly interested in **Systems-level programming and design** and **Machine Learning**
 
 ---
 
@@ -24,10 +24,6 @@ I'm particularly interested in **systems-level programming**, **quantitative tra
 - **🧠 Systems Programming & OS**  
   - Reading *Operating Systems: Three Easy Pieces*  
   - Exploring processes, memory, scheduling, and concurrency
-
-- **🌐 Networking Fundamentals**  
-  - Studying *TCP/IP for Dummies*  
-  - Learning and applying socket-based architecture and other key concepts.
 
 - **🧱 Software Design & Patterns**  
   - Working through *Design Patterns* and *C++ Software Design* (O’Reilly)  
