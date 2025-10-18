@@ -36,7 +36,7 @@ I'm particularly interested in **Backend Engineering** and **Machine Learning**
   - Building and automating serverless test infrastructure
   - Studying for Certifaction Exams
  
-- ** AI/ Machine Learning**
+- **AI/ Machine Learning**
   - Practicing preparing datasets, training and utilizing models, etc.
   - Looking into ways to apply MCP ( Model Control Protocol) to bridge open source models to proprietary tools , particularly in the context of Playwright automated regression testing.
  
