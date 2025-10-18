@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** passionate about building robust, high-performance systems. I currently work at a Fortune 200 company, where I lead test infrastructure development,  but my long-term vision is grounded in systems programming, backend architecture, and the Artificial Intelligence
 
-I'm particularly interested in **Systems-level programming and design** and **Machine Learning**
+I'm particularly interested in **Backend Engineering** and **Machine Learning**
 
 ---
 
@@ -11,6 +11,7 @@ I'm particularly interested in **Systems-level programming and design** and **Ma
 - 🏦 **SDET @ Fortune 200 Company**  
   1. Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
   1. Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
+  1. Onboard and provide technical training to junior SDET's
   
 ---
 
@@ -49,7 +50,7 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 `Python` `TypeScript` `JavaScript` `Java` `C++` `SQL` `Gherkin`
 
 **Frameworks & Tools:**  
-`Playwright` `Selenium` `Cucumber` `React` `Node.js` `Next.js` `Git` `Jira` `QTest`
+`Playwright` `Selenium` `Cucumber` `React` `Node.js` `Next.js` `Git` `Jira` `QTest` `Streamlit`
 
 **Concepts & Practices:**  
 `CI/CD` `OOP` `Async Programming` `Agile / Scrum` `Page Object Model (POM)`
