@@ -9,17 +9,17 @@ I'm particularly interested in **Backend Engineering** and **Machine Learning**
 ## 💼 Experience
 
 - **AI Engineer** November 2025 - Present
-   1. Leverage **Pandas**, **Python**, and **Streamlit** to design data analytics tooling that
+-  Leverage **Pandas**, **Python**, and **Streamlit** to design data analytics tooling that
    identifies key features and metrics used to evaluate safety, accuracy, and
    consistency across Ally’s enterprise AI initiatives.
-   1. Developautomated validation frameworks to cross-reference AI responses
+- Develop automated validation frameworks to cross-reference AI responses
   across **S3** artifacts, **Salesforce** data, and internal systems, ensuring response
   accuracy, integrity, and end-to-end traceability
 
 -  **SDET**  October 2024 - November 2025
-  1. Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
-  1. Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
-  1. Served as a technical interviewer on SDET panel and was responsible for rapidly onboarding and leading a team of 3 QA's for a rapid deliverable multi-million dollar project.
+- Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
+- Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
+- Served as a technical interviewer on SDET panel and was responsible for rapidly onboarding and leading a team of 3 QA's for a rapid deliverable multi-million dollar project.
   
 ---
 
