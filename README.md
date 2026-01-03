@@ -9,10 +9,10 @@ I'm particularly interested in **Backend Engineering** and **Machine Learning**
 ## 💼 Experience
 
 - **AI Engineer** November 2025 - Present
-  1. Leverage **Pandas**, **Python**, and **Streamlit** to design data analytics tooling that
-  identifies key features and metrics used to evaluate safety, accuracy, and
-  consistency across Ally’s enterprise AI initiatives.
-  1. Developautomated validation frameworks to cross-reference AI responses
+   1. Leverage **Pandas**, **Python**, and **Streamlit** to design data analytics tooling that
+   identifies key features and metrics used to evaluate safety, accuracy, and
+   consistency across Ally’s enterprise AI initiatives.
+   1. Developautomated validation frameworks to cross-reference AI responses
   across **S3** artifacts, **Salesforce** data, and internal systems, ensuring response
   accuracy, integrity, and end-to-end traceability
 
