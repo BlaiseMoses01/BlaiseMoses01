@@ -6,42 +6,36 @@ I'm particularly interested in **Backend Engineering** and **Machine Learning**
 
 ---
 
-## 💼 Current Work
+## 💼 Experience
 
-- 🏦 **SDET @ Fortune 200 Company**  
+- **AI Engineer** November 2025 - Present
+  1. Leverage **Pandas**, **Python**, and **Streamlit** to design data analytics tooling that
+  identifies key features and metrics used to evaluate safety, accuracy, and
+  consistency across Ally’s enterprise AI initiatives.
+  1. Developautomated validation frameworks to cross-reference AI responses
+  across **S3** artifacts, **Salesforce** data, and internal systems, ensuring response
+  accuracy, integrity, and end-to-end traceability
+
+-  **SDET**  October 2024 - November 2025
   1. Lead development of scalable UI/API test suites using **Playwright**, **Gherkin**, and **TypeScript**.
   1. Build and Maintain CI/CD regression suites leveraging tools such as **GitLab** , **AWS Lambda** , and **AWS DynamoDB**
-  1. Onboard and provide technical training to junior SDET's
+  1. Served as a technical interviewer on SDET panel and was responsible for rapidly onboarding and leading a team of 3 QA's for a rapid deliverable multi-million dollar project.
   
 ---
 
 ## 📚 Current Studies
 
-- **📘 C++ Mastery**  
-  - Studying modern C++ (C++17/20), STL, memory management  
-  - Working through *C++17 in Detail* by Bartłomiej Filipek  
-  - Building systems projects like game logic engines
-
-- **🧠 Systems Programming & OS**  
-  - Reading *Operating Systems: Three Easy Pieces*  
-  - Exploring processes, memory, scheduling, and concurrency
-
 - **🧱 Software Design & Patterns**  
   - Working through *Design Patterns* and *C++ Software Design* (O’Reilly)  
-  - Implementing reusable patterns in both C++ and TypeScript
   - Practicing key DSA with Leetcode and other Competitive programming platforms. 
 
 - **☁️ AWS Developer Path**  
-  - Learning key AWS services: Lambda, API Gateway, DynamoDB, S3, IAM  
-  - Building and automating serverless test infrastructure
-  - Studying for Certifaction Exams
- 
+  - Learning and applying key AWS services like Lambda, DynamoDB, and S3 to provide key infastructure for AI tools.  
+
 - **AI/ Machine Learning**
   - Practicing preparing datasets, training and utilizing models, etc.
-  - Looking into ways to apply MCP ( Model Control Protocol) to bridge open source models to proprietary tools , particularly in the context of Playwright automated regression testing.
- 
-To see my recent studies and projects, check out my repo [BrainDump](https://github.com/BlaiseMoses01/BrainDump) , an archive of notes, code examples,  and other key info related to my various studies. I maintain a log of my studies and contirbutions in the patch notes!
-
+  - Looking into ways to apply MCP ( Model Control Protocol) to bridge open source models to proprietary tools , particularly in the context of Playwright automated regression testing
+    
 ---
 
 ## 🧰 Tech Stack
@@ -50,7 +44,7 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 `Python` `TypeScript` `JavaScript` `Java` `C++` `SQL` `Gherkin`
 
 **Frameworks & Tools:**  
-`Playwright` `Selenium` `Cucumber` `React` `Node.js` `Next.js` `Git` `Jira` `QTest` `Streamlit`
+`Playwright` `Selenium` `Cucumber` `React` `Node.js` `Next.js` `Git` `Jira` `QTest` `Streamlit` `AWS S3` `AWS Lambda` `AWS DynamoDB`
 
 **Concepts & Practices:**  
 `CI/CD` `OOP` `Async Programming` `Agile / Scrum` `Page Object Model (POM)`
@@ -61,14 +55,17 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 ---
 
 ## 📂 Featured Projects
-1. **Selenium UI Automation Suite**
-   - Repo : [Selenium Example](https://github.com/BlaiseMoses01/Selenium_Appium_Example) 
-   - Description : A UI testing automation suite targeting a mock login flow on my SDET playground , [30daySDET.dev](https://www.30daysdet.dev/)
-   - Languages/Tools : Java, Selenium, Allure Reporting, Github Actions
-2. ** NeatFiles **
-   - Repo : [NeatFiles](https://github.com/BlaiseMoses01/NeatFiles)
-   - Description : A python script for organizing local directories in place using Python's OS and Shutil libraries, with a Tkinter GUI for ease of use.
-   - Languages/Tools: Python (Tkinter, OS ,Shutil)
+
+1. ** Meltons Home and Auto Website **
+   - Repo : [Meltons Site](https://www.meltonshomeandauto.com/) 
+   - Description : I built and now maintain a NextJS webapp for my family business , Melton's Home and Auto. I also manage their online presence via Business profiles and lead management pipelines
+   - Languages/Tools : NextJS, TailwindCSS, Typescript, React
+
+2. ** Portfolio **
+   - Repo : [My Portfolio](https://www.blaisemoses.com/)
+   - Description : My personal website, with details of my work , projects, and some of the content I write/record around Software and DSA challenges.
+   - Languages/Tools: NextJS, Tailwind CSS , Typescript, React
+     
 ---
 
 ## 💭 Core Philosophy
@@ -80,4 +77,4 @@ To see my recent studies and projects, check out my repo [BrainDump](https://git
 ## 🔗 Let’s Connect
 
 - 📧 [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/blaise-moses)
+- 💼 [LinkedIn](https://www.linkedin.com/in/blaise-moses) 
