@@ -56,12 +56,12 @@ I'm particularly interested in **Backend Engineering** and **Machine Learning**
 
 ## 📂 Featured Projects
 
-1. ** Meltons Home and Auto Website **
+1. **Meltons Home and Auto Website**
    - Repo : [Meltons Site](https://www.meltonshomeandauto.com/) 
    - Description : I built and now maintain a NextJS webapp for my family business , Melton's Home and Auto. I also manage their online presence via Business profiles and lead management pipelines
    - Languages/Tools : NextJS, TailwindCSS, Typescript, React
 
-2. ** Portfolio **
+2. **Portfolio**
    - Repo : [My Portfolio](https://www.blaisemoses.com/)
    - Description : My personal website, with details of my work , projects, and some of the content I write/record around Software and DSA challenges.
    - Languages/Tools: NextJS, Tailwind CSS , Typescript, React
