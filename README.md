@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Blaise
 
-I'm a **Software Engineer** passionate about building robust, high-performance systems. I currently work at a Fortune 200 company, where I lead test infrastructure development,  but my long-term vision is grounded in systems programming, backend architecture, and the Artificial Intelligence
+I'm a **Software Engineer** passionate about building robust, high-performance systems. I currently work at a Fortune 500 company, where I lead test infrastructure development,  but my long-term vision is grounded in systems programming, backend architecture, and the Artificial Intelligence
 
 I'm particularly interested in **Backend Engineering** and **Machine Learning**
 
