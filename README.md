@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Blaise
+# 👋 Blaise Moses
 
 I’m a **Software Engineer** focused on building **reliable, scalable AI-driven infrastructure**. I currently work at a **Fortune 500 finacial institution**, where I design tooling that sits at the intersection of **AI systems, data validation, and test infrastructure**.
 
@@ -25,9 +25,9 @@ I’m especially interested in:
 ### **Software Engineer (SDET / Test Infrastructure)**  
 *October 2024 – November 2025*
 
-- Led development of **scalable UI and API test infrastructure** using **Playwright, TypeScript, and Gherkin**, supporting high-impact enterprise applications.
+- Led development of **scalable UI and API test infrastructure** using **Playwright, TypeScript, and Cucumber**, supporting high-impact enterprise applications.
 - Built and maintained **CI/CD regression pipelines** leveraging **GitLab CI, AWS Lambda, DynamoDB, and S3**.
-- Served as a **technical interviewer** and led rapid onboarding of a team of QA engineers for a time-sensitive, multi-million-dollar delivery.
+- Served as a **technical interviewer** and led rapid onboarding of a team of QA engineers for a time-sensitive, high-profile deliveries.
 - Acted as a technical owner for automation strategy, framework design, and reliability improvements across projects.
 
 ---
@@ -54,10 +54,10 @@ I’m especially interested in:
 `Python` · `TypeScript` · `JavaScript` · `C++` · `Java` · `SQL`
 
 **Frameworks & Tooling**  
-`Playwright` · `React` · `Next.js` · `Node.js` · `Streamlit` · `Git`
+`Playwright` · `FastMCP` · `Next.js` · `Node.js` · `Streamlit` · `Git` · `FastAPI` 
 
 **Cloud & Platforms**  
-`AWS (Lambda, DynamoDB, S3)` · `GitHub Actions` · `GitLab CI/CD` · `Salesforce`
+`AWS (Lambda, DynamoDB, S3)` · `GitHub Actions` · `GitLab CI/CD` · `Salesforce` · `Fly Machines` · `Docker`
 
 **Engineering Practices**  
 `CI/CD` · `OOP` · `Async Programming` · `Automation Framework Design` · `System Reliability`
