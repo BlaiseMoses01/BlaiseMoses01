@@ -1,6 +1,6 @@
 #  Blaise Moses - AI Engineer
 
-I’m a **Software Engineer** focused on building **reliable, scalable AI-driven infrastructure**. I currently work at a **Fortune 500 finacial institution**, where I design tooling that sits at the intersection of **AI systems, data validation, and test infrastructure**.
+I’m a **Software Engineer** focused on building **reliable, scalable AI-driven infrastructure**. I currently work at a **Fortune 500 financial institution**, where I design tooling that sits at the intersection of **AI systems, data validation, and test infrastructure**.
 
 While my background includes test automation at scale, my long-term focus is firmly rooted in **backend engineering and and applied AI** — especially building tooling that makes complex systems observable, verifiable, and safe.
 
