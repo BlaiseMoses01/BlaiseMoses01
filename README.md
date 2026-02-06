@@ -1,4 +1,4 @@
-# 👋 Blaise Moses
+#  Blaise Moses - AI Engineer
 
 I’m a **Software Engineer** focused on building **reliable, scalable AI-driven infrastructure**. I currently work at a **Fortune 500 finacial institution**, where I design tooling that sits at the intersection of **AI systems, data validation, and test infrastructure**.
 
