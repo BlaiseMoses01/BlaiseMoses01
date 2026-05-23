@@ -1,10 +1,10 @@
 <h1 align="center">Blaise Moses</h1>
  
 <p align="center">
-  <strong>AI Engineer · Evaluation Systems · Agentic Infrastructure</strong>
+  <strong>AI Engineer · Automated Evaluation Systems / Ongoing Performance Monitoring · Agentic Infrastructure</strong>
 </p>
 <p align="center">
-  I build the systems that make AI behavior measurable, reproducible, and safe to ship.
+  Passionate Engineer focused on building practical AI solutions centered on safety, measurability , and scalability.
 </p>
 <p align="center">
   <a href="https://www.blaisemoses.com">blaisemoses.com</a> ·
@@ -16,26 +16,27 @@
  
 ## Now
  
-AI Engineer at a Fortune 500 financial institution, working across **RAG evaluation, agentic systems, and the developer tooling that holds them together**. Recognized internally as the Claude Code SME and partnering with leadership on org-wide enablement.
+AI Engineer working across **RAG system architecture & evaluation, Model Context Protocol Server managment and orchestration , and internal AI enablement tooling**. Recognized internally as a Claude Code and Software Quality Champion/SME and a direct partner with leadership on org-wide enablement.
  
-Most of what I do falls into one of three buckets:
+Most of my professional work falls into one of three buckets:
  
-- **Eval infrastructure** — RAG evaluation harnesses, merge-gate pipelines, and the analytics layer around model quality. Making "did this change make the system better" a question with an answer.
-- **Agentic systems** — multi-agent orchestration for testing, QA, and SDLC workflows. Built around Claude Code, MCP, and the principle that agent reliability is an engineering problem, not a prompt problem.
-- **Internal tooling and enablement** — the patterns, primitives, and training material that let other engineers move fast without breaking the things that matter.
+- **Eval infrastructure** — I build evaluation harnesses, merge-gate pipelines, and feedback loops to automate the analytics layer around model quality. Making "did this change make the system better" a question with an answer.
+- **Agentic systems and Architecture** — design and implement multi-agent orchestration workflows for business use cases. I bounce around internal teams, work with key contributors to understand their workflows and assess automation potential , and then design and implement agentic solutions to suit their constraints and accelerate their velocity. 
+- **Internal resource upskilling and and enablement** — Key Contributor to AI adoption in org through ownership of training material , knowledge transfer sessions and presentations , and direct mentorship. Authored Claude Code materials for leadership, was a lead presenter in org wide adoption training,  and have personally trained 6 engineers in leveraging Agentic tools in their development workflows.
+  
 ---
  
-## Selected Work
+## Professsional Projects I'm most proud of 
  
-### Multi-agent QA system — production
-Architected and shipped an agentic end-to-end testing system replacing a SaaS vendor tool. Claude Code orchestrating Playwright MCP, parallelized across stories. **Delivered 300+ test cases in the first week and surfaced 24 pre-production defects.**
+### Agentic Test Automation Framework 
+Architected and shipped an agentic end-to-end testing system to enable QA teams to quickly spin up Playwright UI and API test automation against fast moving development projects. Claude Code orchestrating Playwright MCP, Playwright-bdd for BDD self documenting test cases , and MCP integrations for Atlassian Jira and Confluence as well as Gitlab to keep documentation , issue tracking , and source code in sync across company knowledge bases.  
  
 ### RAG evaluation harness — production
-Custom evaluation framework built from primitives (no RAGAS dependency), with parallelized invocation and batched DynamoDB writes keyed by run UUID. Integrated as a merge gate in GitLab MR pipelines. **Cut eval runtime ~18x** and made retrieval and generation quality a precondition for merge across the team.
+Self-rolled a custom evaluation framework with parallelized invocation and batched DynamoDB writes to assess retrieval and generation quality in proprietary RAG frameworks. Integrated as a merge gate in GitLab MR pipelines. By building this custom solution , was able to **Cut eval runtime ~18x** compared to previous strategy and introduce an optimized, shift-left style fail-fast on retrieval and generation quality in order to detect adverse effects from model, prompt, and system changes before they hit prod. 
  
 ### Claude Code enablement program
-Leading the rollout across the org — knowledge transfer materials, session management curriculum, security guardrails for an enterprise context, and the onboarding path for new engineers. Working directly with senior directors on standards and governance.
- 
+While not an engineering feat, I have always greatly enjoyed teaching and helping people learn new skills to make their life easier. One of the proudest accomplishments in my current position was being asked to be a Claude Code champion and SME owning the quality and analysis space. I authored Claude Code materials for leadership, was a lead presenter in org wide adoption training, and have personally trained 6 engineers in leveraging Agentic tools in their development workflows over the course of my tenure.
+
 ---
  
 ## Featured Repos
@@ -98,8 +99,8 @@ I publish under **BAM** — a YouTube channel and Twitch presence focused on AI 
  
 > Anything worth doing is worth doing all the way. Don't mistake a plateau for the peak.
  
-I came up in a blue-collar environment before I came up in software. That's where my standards for directness, accountability, and doing what you say come from — and it's why I prefer measurable systems over confident claims.
- 
+Before I was in software, I grew up blue collar working as a mechanic at my family business. During that time I built standards for directness, honesty , and doing what you say you're going to do. I carry those standards into my work today,and always strive to the best , most reliable solution I am capable of.
+
 ---
  
 ## Contact
