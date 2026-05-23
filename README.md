@@ -1,151 +1,111 @@
 <h1 align="center">Blaise Moses</h1>
-
+ 
 <p align="center">
-  <strong>AI Engineer • Backend Systems • Developer Tooling</strong>
+  <strong>AI Engineer · Evaluation Systems · Agentic Infrastructure</strong>
 </p>
-
 <p align="center">
-  Building reliable AI infrastructure, evaluation systems, and high-leverage internal tooling.
+  I build the systems that make AI behavior measurable, reproducible, and safe to ship.
 </p>
-
 <p align="center">
-  <a href="https://www.blaisemoses.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/blaise-moses">LinkedIn</a> •
-  <a href="mailto:bamoses2001@gmail.com">Email</a> •
-  <a href="https://www.youtube.com/@BlaiseM_Programming">YouTube</a>
+  <a href="https://www.blaisemoses.com">blaisemoses.com</a> ·
+  <a href="https://www.linkedin.com/in/blaise-moses">LinkedIn</a> ·
+  <a href="https://www.youtube.com/@BlaiseM_Programming">YouTube</a> ·
+  <a href="mailto:bamoses2001@gmail.com">Email</a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
 ---
-
-## About Me
-
-I’m a **Software Engineer** focused on building **observable, trustworthy, and scalable AI systems**.
-
-I currently work at a **Fortune 500 financial institution**, where I build tooling at the intersection of **LLM systems, retrieval pipelines, data validation, and engineering infrastructure**. My background in large-scale automation and reliability engineering has given me a strong skillset in **measurement, correctness, and production confidence**, as well as a deep understanding of **distributed & applied AI systems**.
-
-I’m especially interested in:
-
-- **RAG systems and evaluation pipelines**
-- **AI infrastructure, observability, and governance**
-- **Developer tooling and workflow automation**
-- **Agentic systems and MCP-style orchestration**
-- **High-leverage backend engineering problems**
-
-> **Anything worth doing is worth doing all the way.**  
-> Don’t mistake a plateau for the peak.
-
+ 
+## Now
+ 
+AI Engineer at a Fortune 500 financial institution, working across **RAG evaluation, agentic systems, and the developer tooling that holds them together**. Recognized internally as the Claude Code SME and partnering with leadership on org-wide enablement.
+ 
+Most of what I do falls into one of three buckets:
+ 
+- **Eval infrastructure** — RAG evaluation harnesses, merge-gate pipelines, and the analytics layer around model quality. Making "did this change make the system better" a question with an answer.
+- **Agentic systems** — multi-agent orchestration for testing, QA, and SDLC workflows. Built around Claude Code, MCP, and the principle that agent reliability is an engineering problem, not a prompt problem.
+- **Internal tooling and enablement** — the patterns, primitives, and training material that let other engineers move fast without breaking the things that matter.
 ---
-
-## Currently Building
-
-- **RAG evaluation and validation tooling** for model-driven systems
-- **Internal analytics and monitoring workflows** for AI quality and consistency
-- **Agentic QA and automation experiments** using Playwright + Claude Code
-- **MCP-style integrations** for safer, more capable AI workflows
-- **Personal engineering content** around Claude Code, tooling, and systems thinking
-
+ 
+## Selected Work
+ 
+### Multi-agent QA system — production
+Architected and shipped an agentic end-to-end testing system replacing a SaaS vendor tool. Claude Code orchestrating Playwright MCP, parallelized across stories. **Delivered 300+ test cases in the first week and surfaced 24 pre-production defects.**
+ 
+### RAG evaluation harness — production
+Custom evaluation framework built from primitives (no RAGAS dependency), with parallelized invocation and batched DynamoDB writes keyed by run UUID. Integrated as a merge gate in GitLab MR pipelines. **Cut eval runtime ~18x** and made retrieval and generation quality a precondition for merge across the team.
+ 
+### Claude Code enablement program
+Leading the rollout across the org — knowledge transfer materials, session management curriculum, security guardrails for an enterprise context, and the onboarding path for new engineers. Working directly with senior directors on standards and governance.
+ 
 ---
-
-## Experience
-
-### AI Engineer
-**November 2025 – Present**
-
-- Design and build **evaluation tooling for retrieval-augmented and model-driven systems**, with an emphasis on making AI behavior measurable, explainable, and production-ready.
-- Develop **RAG evaluation pipelines** using metrics such as **Precision@k, Recall@k, and MRR** to better understand retrieval quality, ranking performance, and answer usefulness.
-- Build internal analytics and validation tools with **Python, Pandas, and Streamlit** to surface trends in model quality, retrieval effectiveness, and system consistency.
-- Contribute to **drift detection and monitoring workflows** that identify changes in retrieval behavior, response quality, and data integrity across enterprise AI systems.
-- Create automated validation frameworks that cross-reference outputs across **S3 artifacts, Salesforce data, internal services, and structured evaluation datasets** to improve traceability and confidence.
-- Explore **agentic engineering patterns** and **MCP-enabled workflows** for safely connecting models to internal tools, development pipelines, and evaluation systems.
-
-### Software Engineer (Test Infrastructure / Reliability)
-**October 2024 – November 2025**
-
-- Built and scaled **UI and API automation infrastructure** using **Playwright, TypeScript, and Cucumber** for enterprise applications with high reliability requirements.
-- Designed supporting orchestration layers and backend workflows that made automation more deterministic, maintainable, and scalable.
-- Developed **CI/CD regression systems** with **GitLab CI, AWS Lambda, DynamoDB, and S3**, improving pipeline reliability and reducing operational friction.
-- Served as a technical owner for framework architecture, reliability improvements, and engineering standards around automation and validation.
-- Conducted technical interviews and helped onboard engineers into shared tooling, framework usage, and quality-focused engineering practices.
-
----
-
-## Focus Areas
-
-**AI Systems**  
-`RAG Evaluation` `Precision@k` `Recall@k` `MRR` `Drift Detection` `Model Validation`
-
-**Backend & Infrastructure**  
-`AWS` `Event-Driven Systems` `Data Pipelines` `System Reliability` `Internal Tooling`
-
-**Developer Tooling**  
-`Playwright` `FastAPI` `FastMCP` `Claude Code` `Automation Frameworks`
-
-**Languages**  
-`Python` `TypeScript` `JavaScript` `C++` `Java` `SQL`
-
----
-
-## Featured Projects
-
+ 
+## Featured Repos
+ 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Agentic Playwright Team</h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlaiseMoses01/agentic-playwright-team">Agentic Playwright Team</a></h3>
       <p>
-        A multi-agent browser automation experiment focused on <strong>systematic exploration, test planning, and accelerated Playwright authoring</strong>.
+        A Claude Code-native test generation and regression harness. Custom skills, subagents, and hooks coordinating an Explorer → Coder → Reviewer pipeline. Token-efficient via the agent-browser CLI. Used as a boilerplate across my projects to automate test authoring, execution, and maintenance.
       </p>
-      <p>
-        <a href="https://github.com/BlaiseMoses01/agentic-playwright-team">Repo</a>
-      </p>
+      <p><sub><code>TypeScript</code> · <code>Playwright</code> · <code>Claude Code</code></sub></p>
     </td>
-    <td width="50%">
-      <h3>Claude Code from Zero</h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlaiseMoses01">Deinopis CLI</a></h3>
       <p>
-        A practical YouTube course covering <strong>CLI basics, context, CLAUDE.md, skills, sub-agents, and MCP</strong>.
+        A Node/TypeScript CLI that generates multi-repo dependency graphs to drive AI coding agents across service boundaries. Computes safe execution ordering, detects cycles, and surfaces cross-repo blockers — the kind of structure agent orchestration needs to not fall over.
       </p>
-      <p>
-        <a href="https://youtube.com/playlist?list=PL5OZs3jMgGKQK6vsdADO5iO2hEEAjo6CP&si=SOpWa92x-CjuYA_H">Playlist</a> •
-        <a href="https://www.youtube.com/@BlaiseM_Programming">Channel</a>
-      </p>
+      <p><sub><code>Node.js</code> · <code>TypeScript</code> · <code>Graph algorithms</code></sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Melton’s Home & Auto</h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://youtube.com/playlist?list=PL5OZs3jMgGKQK6vsdADO5iO2hEEAjo6CP">Claude Code from Zero</a></h3>
       <p>
-        A production <strong>Next.js</strong> web app and digital presence project for my family’s automotive business.
+        A practical course covering CLI basics, context engineering, <code>CLAUDE.md</code> hierarchies, skills, subagents, hooks, and MCP. Much of the material has been repurposed into the enablement program at work.
       </p>
-      <p>
-        <a href="https://www.meltonshomeandauto.com">Live Site</a>
-      </p>
+      <p><sub><code>YouTube</code> · <code>Claude Code</code> · <code>MCP</code></sub></p>
     </td>
-    <td width="50%">
-      <h3>Portfolio</h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.meltonshomeandauto.com">Melton's Home & Auto</a></h3>
       <p>
-        A central hub for my projects, writing, and technical explorations across <strong>AI, systems, and software engineering</strong>.
+        Production Next.js site and digital presence for the family automotive business. Real users, real traffic, real consequences for bad commits.
       </p>
-      <p>
-        <a href="https://www.blaisemoses.com">Website</a>
-      </p>
+      <p><sub><code>Next.js</code> · <code>Production</code></sub></p>
     </td>
   </tr>
 </table>
-
 ---
+ 
+## Stack
+ 
+**Languages** — Python, TypeScript, SQL, C++
+**AI/Agentic** — Claude, MCP, FastMCP, OpenAI, Microsoft Foundry, agent orchestration patterns
+**Eval & Infra** — RAG evaluation (Precision@k, Recall@k, MRR), drift detection, Langfuse, custom harnesses
+**Cloud & Data** — AWS (Lambda, S3, DynamoDB), Snowflake, PostgreSQL, Supabase, pgvector
+**Automation & CI/CD** — Playwright, Pytest, Cucumber, GitLab CI, GitHub Actions, Docker
+ 
+---
+ 
+## Writing & Content
+ 
+I publish under **BAM** — a YouTube channel and Twitch presence focused on AI engineering, Claude Code, and the practical end of developer tooling. The throughline is the same as my work: the gap between an AI demo and an AI system you can trust in production, and how to close it.
+ 
+- **YouTube:** [@BlaiseM_Programming](https://www.youtube.com/@BlaiseM_Programming)
+- **Portfolio & blog:** [blaisemoses.com](https://www.blaisemoses.com)
+---
+ 
+## Principles
+ 
+> Anything worth doing is worth doing all the way. Don't mistake a plateau for the peak.
+ 
+I came up in a blue-collar environment before I came up in software. That's where my standards for directness, accountability, and doing what you say come from — and it's why I prefer measurable systems over confident claims.
+ 
+---
+ 
+## Contact
+ 
+- **Email** — [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
+- **LinkedIn** — [linkedin.com/in/blaise-moses](https://www.linkedin.com/in/blaise-moses)
+- **Portfolio** — [blaisemoses.com](https://www.blaisemoses.com)
 
-## Connect
-
-- **Email:** [bamoses2001@gmail.com](mailto:bamoses2001@gmail.com)
-- **LinkedIn:** https://www.linkedin.com/in/blaise-moses
-- **Portfolio:** https://www.blaisemoses.com
-- **YouTube:** https://www.youtube.com/@BlaiseM_Programming
 
