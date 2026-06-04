@@ -79,8 +79,8 @@ While not an engineering feat, I have always greatly enjoyed teaching and helpin
  
 ## Stack
  
-**Languages** — Python, TypeScript, SQL, C++
-**AI/Agentic** — Claude, MCP, FastMCP, OpenAI, Microsoft Foundry, agent orchestration patterns
+**Languages** — Python, TypeScript, SQL, C++, Bash
+**AI/Agentic** — Claude, MCP, FastMCP, OpenAI, agent orchestration patterns
 **Eval & Infra** — RAG evaluation (Precision@k, Recall@k, MRR), drift detection, Langfuse, custom harnesses
 **Cloud & Data** — AWS (Lambda, S3, DynamoDB), Snowflake, PostgreSQL, Supabase, pgvector
 **Automation & CI/CD** — Playwright, Pytest, Cucumber, GitLab CI, GitHub Actions, Docker
@@ -89,7 +89,7 @@ While not an engineering feat, I have always greatly enjoyed teaching and helpin
  
 ## Writing & Content
  
-I publish under **BAM** — a YouTube channel and Twitch presence focused on AI engineering, Claude Code, and the practical end of developer tooling. The throughline is the same as my work: the gap between an AI demo and an AI system you can trust in production, and how to close it.
+I publish the occasional blog post or youtube video, usually focused on AI engineering, Claude Code, and the practical end of developer tooling.
  
 - **YouTube:** [@BlaiseM_Programming](https://www.youtube.com/@BlaiseM_Programming)
 - **Portfolio & blog:** [blaisemoses.com](https://www.blaisemoses.com)
@@ -99,7 +99,7 @@ I publish under **BAM** — a YouTube channel and Twitch presence focused on AI 
  
 > Anything worth doing is worth doing all the way. Don't mistake a plateau for the peak.
  
-Before I was in software, I grew up blue collar working as a mechanic at my family business. During that time I built standards for directness, honesty , and doing what you say you're going to do. I carry those standards into my work today,and always strive to the best , most reliable solution I am capable of.
+Before I was in software, I grew up blue collar working as a mechanic at my family business. During that time I built standards for directness, honesty , and doing what you say you're going to do. I carry those standards into my work today,and always strive to provide the best , most reliable solution I am capable of.
 
 ---
  
