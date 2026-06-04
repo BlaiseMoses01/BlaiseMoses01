@@ -35,7 +35,7 @@ Architected and shipped an agentic end-to-end testing system to enable QA teams 
 Self-rolled a custom evaluation framework with parallelized invocation and batched DynamoDB writes to assess retrieval and generation quality in proprietary RAG frameworks. Integrated as a merge gate in GitLab MR pipelines. By building this custom solution , was able to **Cut eval runtime ~18x** compared to previous strategy and introduce an optimized, shift-left style fail-fast on retrieval and generation quality in order to detect adverse effects from model, prompt, and system changes before they hit prod. 
  
 ### Claude Code enablement program
-While not an engineering feat, I have always greatly enjoyed teaching and helping people learn new skills to make their life easier. One of the proudest accomplishments in my current position was being asked to be a Claude Code champion and SME owning the quality and analysis space. I authored Claude Code materials for leadership, was a lead presenter in org wide adoption training, and have personally trained 6 engineers in leveraging Agentic tools in their development workflows over the course of my tenure.
+While not an engineering feat, I have always greatly enjoyed teaching and helping people learn new skills to make their life easier. One of the proudest accomplishments in my current position was being asked to be a Claude Code champion and SME owning the quality and analysis space. Serving as a point of contact has not only been super rewarding helping people get good results with AI , but has also made myself much better from all the rapid fire problems to solve.
 
 ---
  
