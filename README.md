@@ -62,7 +62,7 @@ I like to play around with productivity tools and agent enablment frameworks to 
 
 Lately that's [Deinopis](https://github.com/BlaiseMoses01/Deinopis-CLI), a CLI that maps multi-repo dependency graphs so coding agents can move across service boundaries without falling over.I also built [Agentic Playwright Team](https://github.com/BlaiseMoses01/agentic-playwright-team), a Claude Code-native test-generation harness I reuse as boilerplate a few months ago , which I actually ended up getting buyin on and iterating on professionally. I also recently built myself a pretty sick guitar practice assistant with Claude , check that one out [here](https://github.com/BlaiseMoses01/guitar-practice-app) or a demo on my YouTube [here](https://youtube.com/shorts/TnV8kSpGlb8?si=CzOUdWmJoBDgvnoB)
 
-##  Writing & video 
+###  Writing & video 
 
  I publish on agent tools, context engineering, and just cool architecture I experiment with. One of the more cohesive examples of this is my [Claude Code from Zero](https://youtube.com/playlist?list=PL5OZs3jMgGKQK6vsdADO5iO2hEEAjo6CP) course on YouTube , which became the baseline for a lot of enterprise training materials I helped build out in my current role. I get a lot of fufillment helping other engineers get fluent with AI tooling regardless of their background. Lowering that barrier is some of the most leveraged work I do.
 
