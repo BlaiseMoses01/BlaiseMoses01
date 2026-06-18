@@ -21,9 +21,13 @@
 ## Skills
 
 **Languages** — Python, TypeScript, SQL, C++, Bash
+
 **AI/Agentic** — Claude Code, MCP, RAG, OpenAI ChatGPT & Codex
+
 **Eval & Infra** — RAG evaluation (Precision@k, Recall@k, MRR), drift detection, Langfuse, Dynatrace
+
 **Cloud & Data** — AWS (Lambda, S3, DynamoDB, EC2, Bedrock), Snowflake, PostgreSQL, Supabase, pgvector, Terraform
+
 **Automation & CI/CD** — Playwright, Pytest, Cucumber, GitLab CI, GitHub Actions, Docker
 
 ---
