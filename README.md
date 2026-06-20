@@ -57,7 +57,7 @@ Currently , most of my interests and efforts center on:
 
 ### Agentic Tooling and Automation 
 
-I like to play around with productivity tools and agent enablment frameworks to push tools like Claude Code to solve bigger and more complex problems. 
+I like to play around with productivity tools and agent enablement frameworks to push tools like Claude Code to solve bigger and more complex problems. 
 
 
 Lately that's [Deinopis](https://github.com/BlaiseMoses01/Deinopis-CLI), a CLI that maps multi-repo dependency graphs so coding agents can move across service boundaries without falling over.I also built [Agentic Playwright Team](https://github.com/BlaiseMoses01/agentic-playwright-team), a Claude Code-native test-generation harness I reuse as boilerplate a few months ago , which I actually ended up getting buyin on and iterating on professionally. I also recently built myself a pretty sick guitar practice assistant with Claude , check that one out [here](https://github.com/BlaiseMoses01/guitar-practice-app) or a demo on my YouTube [here](https://youtube.com/shorts/TnV8kSpGlb8?si=CzOUdWmJoBDgvnoB)
